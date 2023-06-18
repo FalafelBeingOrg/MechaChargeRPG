@@ -1,0 +1,1 @@
+https://fari-rpgs.itch.io/charge-srd/download/eyJpZCI6MTI0Mzk5MiwiZXhwaXJlcyI6MTY4NzEyMzA1NX0%3d.4%2bqXbyyb9A%2f%2fFdFXcEPtmh8bF1k%3d
