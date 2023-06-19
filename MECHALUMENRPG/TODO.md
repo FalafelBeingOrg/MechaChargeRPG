@@ -1,0 +1,28 @@
+- [ ] [[attributes]]
+- [ ] [[health]]
+- [ ] [[energy/resource]]
+- [ ] [[powers]]
+- [ ] [[classes]]
+- [ ] [[name]]
+- [ ] [[character creation]]
+- [ ] [[combat]]
+- [ ] [[enemies]]
+- [ ] [[weapons]]
+- [ ] [[gameplay loop]]
+- [ ] [[advancement]]
+- [ ] [[attribution]]
+- [ ] determine 3 attributes
+- [ ] create classes
+	- [ ] 3 attributes
+	- [ ] health
+	- [ ] resouce
+	- [ ] 3-5 powers
+- [ ] create enemies
+	- [ ] health
+	- [ ] harm
+	- [ ] 3 moves
+- [ ] create weapon types and tags
+	- [ ] harm
+	- [ ] range
+	- [ ] optional required tags
+![[Pasted image 20230619112501.png]]
