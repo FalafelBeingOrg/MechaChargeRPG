@@ -1,22 +1,21 @@
-- [ ] [[attributes]]
-- [ ] [[health]]
-- [ ] [[energy/resource]]
-- [ ] [[powers]]
-- [ ] [[classes]]
+- [x] [[core mechanic]]
+- [x] [[attributes]]
+- [x] [[health]]
+- [x] [[sol]]
+- [ ] [[mods]]
+- [x] [[class]]
 - [ ] [[name]]
-- [ ] [[character creation]]
-- [ ] [[combat]]
-- [ ] [[enemies]]
+- [x] [[character creation]]
+- [x] [[combat]]
+- [x] [[enemies]]
 - [ ] [[weapons]]
-- [ ] [[gameplay loop]]
+- [ ] [[tags]]
+- [x] [[gameplay loop]]
 - [ ] [[advancement]]
-- [ ] [[attribution]]
-- [ ] determine 3 attributes
-- [ ] create classes
-	- [ ] 3 attributes
-	- [ ] health
-	- [ ] resouce
-	- [ ] 3-5 powers
+- [ ] [[theme]]
+- [x] [[attribution]]
+- [x] determine 3 attributes
+- [ ] create classes with 3-5 powers
 - [ ] create enemies
 	- [ ] health
 	- [ ] harm

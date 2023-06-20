@@ -1,0 +1,1 @@
+physical is roll 2 dice and take the lowest, mental is as mech.

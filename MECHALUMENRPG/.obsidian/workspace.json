@@ -8,15 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c9f5bd4d508846d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "10412e7b28ec0ec6",
+            "id": "f9775a8bccc8d1ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,11 +162,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f909e0dffaa19123",
+  "active": "f9775a8bccc8d1ff",
   "lastOpenFiles": [
-    "Images",
-    "Images/Pasted image 20230619112501.png",
+    "factions.md",
+    "theme.md",
+    "TODO.md",
+    "tags.md",
+    "weapons.md",
+    "advancement.md",
+    "attribution.md",
+    "attributes.md",
+    "reputation.md",
+    "mods.md",
+    "character creation.md",
+    "Images/illuminated-lumen-logo-white.png",
+    "Images/illuminated-lumen-logo-black.png",
+    "gameplay loop.md",
+    "Untitled.md",
+    "enemies.md",
+    "combat.md",
+    "core mechanic.md",
+    "class.md",
+    "sol.md",
+    "outside rigs.md",
+    "health.md",
     "name.md",
-    "TODO.md"
+    "classes",
+    "energy/resource.md",
+    "energy",
+    "Images",
+    "Images/Pasted image 20230619112501.png"
   ]
 }
