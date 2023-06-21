@@ -4,7 +4,7 @@
 - [x] [[sol]]
 - [ ] [[mods]]
 - [x] [[class]]
-- [ ] [[name]]
+- [x] [[name]]
 - [x] [[character creation]]
 - [x] [[combat]]
 - [x] [[enemies]]
@@ -12,7 +12,7 @@
 - [ ] [[tags]]
 - [x] [[gameplay loop]]
 - [ ] [[advancement]]
-- [ ] [[theme]]
+- [x] [[theme]]
 - [x] [[attribution]]
 - [x] determine 3 attributes
 - [ ] create classes with 3-5 powers

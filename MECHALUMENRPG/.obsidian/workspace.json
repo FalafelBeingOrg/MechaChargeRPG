@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "tags.md"
               }
             }
           },
@@ -164,20 +164,22 @@
   },
   "active": "f9775a8bccc8d1ff",
   "lastOpenFiles": [
+    "weapons.md",
+    "character creation.md",
     "factions.md",
+    "advancement.md",
+    "reputation.md",
+    "missions.md",
     "theme.md",
     "TODO.md",
     "tags.md",
-    "weapons.md",
-    "advancement.md",
+    "gameplay loop.md",
+    "name.md",
+    "mods.md",
     "attribution.md",
     "attributes.md",
-    "reputation.md",
-    "mods.md",
-    "character creation.md",
     "Images/illuminated-lumen-logo-white.png",
     "Images/illuminated-lumen-logo-black.png",
-    "gameplay loop.md",
     "Untitled.md",
     "enemies.md",
     "combat.md",
@@ -186,7 +188,6 @@
     "sol.md",
     "outside rigs.md",
     "health.md",
-    "name.md",
     "classes",
     "energy/resource.md",
     "energy",
