@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-**Builds** are classifications of [[Rigs]]. They determine the health, sol regeneration, and [[Mods]] of the [[Rigs]].
+**Builds** are classifications of [[Rigs]]. They determine the [[Health]], [[Sol]] regeneration, and [[Mods]] of the [[Rigs]].
 
 BOLT
 	Type:

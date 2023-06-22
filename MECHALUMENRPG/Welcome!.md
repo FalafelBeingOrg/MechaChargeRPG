@@ -2,9 +2,9 @@
 dg-home: true
 dg-publish: true
 ---
-**Welcome** to **Under the Rusted Star!**
+Welcome to **Under the Rusted Star**!
 
-**Table of contents:**
+**Table of Contents:**
 [[Name]]
 [[Theme]]
 [[Definitions]]

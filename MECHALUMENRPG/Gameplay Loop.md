@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 **Mission Brief** 
-	This is where the players are briefed by their faction about what the current mission is. Missions can be generated using the [[Mission Generation Tables]].
+	This is where the **PCs** are briefed by their [[Factions|Faction]] about what the current mission is. Missions can be generated using the [[Mission Generation Tables]].
 **Pre-Mission Scene**
 	A short scene where **PCs** can interact with each other and any relevant **NPCs** before the mission starts.
 **Mission**

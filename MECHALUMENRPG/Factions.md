@@ -4,7 +4,7 @@ dg-publish: true
 **The Botanists**
 	Have living plant weaponry.
 	Want to protect the wilds from exploitation.
-	Utilize hit and run guerilla warfare.
+	Utilize hit and run guerrilla warfare.
 
 **The Republic**
 	Have legions of mindless followers.

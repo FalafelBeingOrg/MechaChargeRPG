@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-**PCs** begin with 3 **Mods** based on their [[Builds|Build]]. When activating a **Mod**, you do not need to take an action or make a roll, you simply declare that it is being used and spend the required [[Sol]].
+**PCs** begin with 3 **Mods** based on their  [[Rigs|Rig]]'s [[Builds|Build]]. When activating a **Mod**, you do not need to take an action or make a roll, you simply declare that it is being used and spend the required [[Sol]].
 
 - [ ] **TO DO: ADD THE MODS LIST**
 
