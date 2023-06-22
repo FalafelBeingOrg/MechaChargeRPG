@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation.md",
+                "file": "Welcome!.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation.md",
+                "file": "Welcome!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation.md",
+                "file": "Welcome!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation.md"
+                "file": "Welcome!.md"
               }
             }
           },
@@ -174,16 +174,17 @@
   },
   "active": "e7ef991f3f4a3b55",
   "lastOpenFiles": [
+    "Name.md",
+    "Mods.md",
+    "Core Mechanic.md",
+    "Definitions.md",
+    "Character Creation.md",
     "Builds.md",
     "Weapons.md",
-    "Mods.md",
     "Sol.md",
     "Health.md",
     "Attributes.md",
     "Gameplay Loop.md",
-    "Core Mechanic.md",
-    "Definitions.md",
-    "Name.md",
     "outside rigs.md",
     "Advancement.md",
     "Theme.md",
@@ -195,7 +196,6 @@
     "Enemies.md",
     "Combat.md",
     "Attribution.md",
-    "Character Creation.md",
     "Ranges.md",
     "Shield Cores.md",
     "Rigs.md",

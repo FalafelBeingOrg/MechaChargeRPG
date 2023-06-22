@@ -1,6 +1,6 @@
 {
   "githubRepo": "mecha-digital-garden",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "FalafelBeing",
   "gardenBaseUrl": "",
   "prHistory": [],
@@ -8,7 +8,7 @@
   "theme": "{\"name\":\"Origami\",\"author\":\"kneecaps\",\"repo\":\"7368697661/Origami\",\"screenshot\":\"screen.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/7368697661/Origami/HEAD/theme.css\"}",
   "faviconPath": "",
   "noteSettingsIsInitialized": true,
-  "siteName": "Under the Rusted Star",
+  "siteName": "Digital Garden",
   "slugifyEnabled": true,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
