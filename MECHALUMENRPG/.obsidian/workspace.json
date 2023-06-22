@@ -11,24 +11,33 @@
             "id": "66041d11fa88485f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mods.md",
+                "mode": "source",
+                "source": false
+              }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6f3bcf1a1e787c57",
+        "type": "tabs",
+        "children": [
           {
             "id": "e7ef991f3f4a3b55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome!.md",
+                "file": "Builds.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome!.md",
+                "file": "Mods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome!.md",
+                "file": "Mods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome!.md"
+                "file": "Mods.md"
               }
             }
           },
@@ -172,34 +181,34 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e7ef991f3f4a3b55",
+  "active": "66041d11fa88485f",
   "lastOpenFiles": [
-    "Name.md",
-    "Mods.md",
-    "Core Mechanic.md",
-    "Definitions.md",
-    "Character Creation.md",
     "Builds.md",
-    "Weapons.md",
-    "Sol.md",
-    "Health.md",
-    "Attributes.md",
-    "Gameplay Loop.md",
-    "outside rigs.md",
-    "Advancement.md",
-    "Theme.md",
-    "Tags.md",
-    "Reputation.md",
-    "Mission Generation Tables.md",
-    "Welcome!.md",
+    "Mods.md",
     "Factions.md",
     "Enemies.md",
+    "Advancement.md",
     "Combat.md",
-    "Attribution.md",
     "Ranges.md",
+    "Welcome!.md",
+    "Weapons.md",
+    "Reputation.md",
+    "Tags.md",
+    "Mission Generation Tables.md",
+    "Definitions.md",
     "Shield Cores.md",
     "Rigs.md",
+    "Core Mechanic.md",
+    "Attribution.md",
     "TODO.md",
+    "missions.md",
+    "Theme.md",
+    "Character Creation.md",
+    "Sol.md",
+    "Health.md",
+    "Gameplay Loop.md",
+    "outside rigs.md",
+    "Attributes.md",
     "Images/illuminated-lumen-logo-white.png",
     "Images/illuminated-lumen-logo-black.png",
     "classes",
