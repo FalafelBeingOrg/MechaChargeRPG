@@ -1,3 +1,8 @@
-rusted nova
-under the green sun
---under the rusted star
+---
+dg-publish: true
+---
+Current name: **Under the Rusted Star**
+
+Other possible names:
+Rusted Nova
+Under the Green Sun

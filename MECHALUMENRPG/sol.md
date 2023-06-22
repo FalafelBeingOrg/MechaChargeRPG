@@ -1,3 +1,6 @@
-regain 2,3,4,3 at the end of turn for heavy,med,light,support
+---
+dg-publish: true
+---
+**Sol** is the ethereal resource used to power [[Rigs]] and [[Mods]]. Some is regained at the end of every round based on **PC's** [[Builds]].
 
 

@@ -1,3 +1,6 @@
-5-10 depending on [[class]]
+---
+dg-publish: true
+---
+**PCs** start with 5 to 10 **Health** depending on [[Builds]].
 
-on hit 0 are removed from scene and permanently lose access to one of their [[mods]] 
+If a **PC** hits 0 **Health** for any reason during a scene, they are removed from the scene and lose access to to one of their [[Mods]] of their choice permanently. Player death is not really a part of **Under the Rusted Star**. If you want to modify the game such that player death is more of a possibility feel free, but know that it will divert some of the games focus from power fantasy.
