@@ -1,11 +1,38 @@
 ---
 dg-publish: true
 ---
-- [ ] **TO DO: ADD AN EXAMPLE ENEMY LIST FOR ALL 3 FACTIONS**
+Wind Scout
+	[[Factions|Faction]]: The Sky Legion
+	[[Health]]: 2
+		[[Shield Cores]]: 1
+	**Harm**: 1
+		Weapon: SKYHOG
+		Range: Close, Mid
+	Moves:
+		Dive bomb
+		Areal maneuvers
+		Escape to the skies
 
-Name
-health
-	harm
-		range n weapon
-	moves
-		3 things they can do (actions, reactions, tacitcs)
+Evangelist
+	[[Factions|Faction]]: The Republic
+	[[Health]]: 1
+		[[Shield Cores]]: 2
+	**Harm**: 1
+		Weapon: HOLY WATER
+		Range: Mid
+	Moves:
+		Curse
+		Call out
+		Pray
+
+Grove Tender
+	[[Factions|Faction]]: The Botanists
+	[[Health]]: 2
+		[[Shield Cores]]: 0
+	**Harm**: 2
+		Weapon: LEMONBALM
+		Range: Mid, Far
+	Moves:
+		Release spores
+		Photosynthesize
+		Plant control

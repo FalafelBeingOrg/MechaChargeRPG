@@ -1,8 +1,12 @@
 ---
 dg-publish: true
 ---
-- [ ] **TO DO: ADD ADVANCEMENT**
-at end of mission
-gain 1 to attribute, increase health or sol
-gain 2,3,4 rep with factions helped for failure, parital success, full success. each player gains this rep seperately but the same amount.
-use [[Reputation]] with [[Factions]] to get new [[Weapons]]
+At the end of the [[Mission Generation Tables|Mission]], **PCs** gain 1 point to an attribute of their choice, and increase their health or starting [[Sol]] by 1.
+
+If the mission was a . . . 
+	 . . . failure, each **PC** gains 2 [[Reputation]].
+	 . . . partial success, each **PC** gains 3 [[Reputation]].
+	 . . . full success, each **PC** gains 4 [[Reputation]].
+Each **PC** gains this [[Reputation]] separately and can spend it on their own.
+
+Players may spend newfound [[Reputation]] to buy [[Weapons]]. [[Rigs]] may not have more than 1 [[Weapons|Weapon]] equipped at a time.

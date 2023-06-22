@@ -20,6 +20,7 @@ dg-publish: true
 [[Weapons]]
 [[Tags]]
 [[Combat]]
+[[Ranges]]
 [[Shield Cores]]
 [[Enemies]]
 [[Mission Generation Tables]]
