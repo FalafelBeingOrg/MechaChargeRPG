@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Weapons
+
 **Possible Starters:**
 
 GAUNTLET MK 1 (3, L, 3, C)
@@ -26,6 +28,18 @@ PLANTER MK 1 (3, LM, 2, MF)
 		mid, far (2)
 	tags
 		sniper (1)
+
+RAVEN (3, H, 2, MF)
+	rep cost
+		3 (pt buy = 9)
+	requirements
+		heavy (1)
+	harm
+		2 (4)
+	range
+		mid far (2)
+	tags
+		piercing, sol catcher (5)
 
 **Buyable Weaponry:**
 
@@ -98,18 +112,6 @@ GAUNTLET MK 2 (6, L, 3, C)
 		4 (8)
 	range
 		close (1)
-	tags
-		piercing, sol catcher (5)
-
-RAVEN (3, H, 2, MF)
-	rep cost
-		3 (pt buy = 9)
-	requirements
-		heavy (1)
-	harm
-		2 (4)
-	range
-		mid far (2)
 	tags
 		piercing, sol catcher (5)
 

@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Tags
+
 Charge - takes 1 round to wind up (-3)
 Close - +1 harm at close range (+1)
 Piercing - ignores [[Shield Cores]] (+2)

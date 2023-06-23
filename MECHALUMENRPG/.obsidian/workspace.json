@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Builds.md",
+                "file": "Welcome!.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Builds.md",
+                "file": "Welcome!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Builds.md",
+                "file": "Welcome!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Builds.md"
+                "file": "Welcome!.md"
               }
             }
           },
@@ -183,32 +183,32 @@
   },
   "active": "66041d11fa88485f",
   "lastOpenFiles": [
-    "Mods.md",
-    "Builds.md",
-    "Factions.md",
-    "Enemies.md",
-    "Advancement.md",
-    "Combat.md",
     "Ranges.md",
     "Welcome!.md",
     "Weapons.md",
-    "Reputation.md",
+    "Theme.md",
+    "Test.md",
     "Tags.md",
-    "Mission Generation Tables.md",
-    "Definitions.md",
+    "Sol.md",
     "Shield Cores.md",
     "Rigs.md",
-    "Core Mechanic.md",
-    "Attribution.md",
-    "TODO.md",
-    "missions.md",
-    "Theme.md",
-    "Character Creation.md",
-    "Sol.md",
+    "Reputation.md",
+    "Mods.md",
+    "Name.md",
+    "Mission Generation Tables.md",
     "Health.md",
     "Gameplay Loop.md",
-    "outside rigs.md",
+    "Factions.md",
+    "Enemies.md",
+    "Definitions.md",
+    "Core Mechanic.md",
+    "Combat.md",
+    "Character Creation.md",
+    "Builds.md",
+    "Attribution.md",
+    "Advancement.md",
     "Attributes.md",
+    "TODO.md",
     "Images/illuminated-lumen-logo-white.png",
     "Images/illuminated-lumen-logo-black.png",
     "classes",

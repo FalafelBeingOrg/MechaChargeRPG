@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Mission Generation Tables
+
 Roll once on each.
 
 **Objective**

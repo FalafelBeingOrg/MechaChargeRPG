@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Builds
+
 **Builds** are classifications of [[Rigs]]. They determine the [[Health]], [[Sol]] regeneration, and [[Mods]] of the [[Rigs]].
 
 BOLT
@@ -42,3 +44,4 @@ SALVE
 			7
 		Focus:
 			Support
+

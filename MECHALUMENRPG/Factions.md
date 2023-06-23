@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Factions
+
 **The Botanists**
 	Have living plant weaponry.
 	Want to protect the wilds from exploitation.

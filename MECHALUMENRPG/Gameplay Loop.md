@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Gameplay Loop
+
 **Mission Brief** 
 	This is where the **PCs** are briefed by their [[Factions|Faction]] about what the current mission is. Missions can be generated using the [[Mission Generation Tables]].
 **Pre-Mission Scene**

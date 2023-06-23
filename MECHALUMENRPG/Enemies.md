@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Enemies
+
 Wind Scout
 	[[Factions|Faction]]: The Sky Legion
 	[[Health]]: 2
@@ -36,3 +38,4 @@ Grove Tender
 		Release spores
 		Photosynthesize
 		Plant control
+

@@ -2,8 +2,9 @@
 dg-home: true
 dg-publish: true
 ---
-test hello
-Welcome to **Under the Rusted Star**!
+# **Welcome to** Under the Rusted Star!
+
+
 
 **Table of Contents:**
 [[Name]]

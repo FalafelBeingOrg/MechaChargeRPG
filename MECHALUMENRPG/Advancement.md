@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Advancement
+
 At the end of the [[Mission Generation Tables|Mission]], **PCs** gain 1 point to an attribute of their choice, and increase their health or starting [[Sol]] by 1.
 
 If the mission was a . . . 
@@ -10,3 +12,5 @@ If the mission was a . . .
 Each **PC** gains this [[Reputation]] separately and can spend it on their own.
 
 Players may spend newfound [[Reputation]] to buy [[Weapons]]. [[Rigs]] may not have more than 1 [[Weapons|Weapon]] equipped at a time.
+
+

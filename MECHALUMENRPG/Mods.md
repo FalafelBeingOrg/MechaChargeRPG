@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+# Mods
+
 **PCs** begin with 3 **Mods** based on their  [[Rigs|Rig]]'s [[Builds|Build]]. When activating a **Mod**, you do not need to take an action or make a roll, you simply declare that it is being used and spend the required [[Sol]].
 
 - [ ] **TO DO: ADD THE MODS LIST**
@@ -23,4 +25,4 @@ SALVE
 		Move another [[Rigs|Rig]] to your position. Happens before **Harm** is dealt.
 
 Future replacements:
-	
+
