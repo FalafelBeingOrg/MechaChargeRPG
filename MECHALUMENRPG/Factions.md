@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 # Factions
+- [ ] **TO DO: ADD MORE FACTIONS AND LORE**
 
 **The Botanists**
 	Have living plant weaponry.

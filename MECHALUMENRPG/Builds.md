@@ -8,18 +8,14 @@ dg-publish: true
 BOLT
 	Type:
 		Light
-	Sol Regeneration (per round):
-		4
 	Health:
-		5
+		6
 	Focus:
 		Speed
 
 LANCE
 	Type:
 		Mid
-	Sol Regeneration (per round):
-		3
 	Health:
 		8
 	Focus:
@@ -28,20 +24,16 @@ LANCE
 BASTION
 	Type:
 		Heavy
-	Sol Regeneration (per round):
-		2
 	Health:
-		10
+		9
 	Focus:
 		Defense
 
 SALVE
 	Type:
-			Mid
-		Sol Regeneration (per round):
-			3
-		Health:
-			7
-		Focus:
-			Support
+		Mid
+	Health:
+		7
+	Focus:
+		Support
 

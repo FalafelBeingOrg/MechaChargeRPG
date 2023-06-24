@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 # Enemies
+- [ ] **TO DO: ADD MORE ENEMY IDEAS**
 
 Wind Scout
 	[[Factions|Faction]]: The Sky Legion
