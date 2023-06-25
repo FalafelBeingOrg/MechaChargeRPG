@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,11 +184,12 @@
   },
   "active": "66041d11fa88485f",
   "lastOpenFiles": [
+    "Enemies.md",
+    "Mods.md",
     "Welcome!.md",
     "Character Creation.md",
     "Sol.md",
     "Possible Modifications.md",
-    "Mods.md",
     "Combat.md",
     "Builds.md",
     "Advancement.md",
@@ -195,7 +197,6 @@
     "Attribution.md",
     "Core Mechanic.md",
     "Definitions.md",
-    "Enemies.md",
     "Factions.md",
     "Gameplay Loop.md",
     "Mission Generation Tables.md",
