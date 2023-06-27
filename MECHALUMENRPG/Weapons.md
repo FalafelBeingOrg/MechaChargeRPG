@@ -1,6 +1,6 @@
 ---
 dg-publish: true
----
+--- 
 # Weapons
 
 **Possible Starters:**
@@ -119,7 +119,7 @@ GAUNTLET MK 2 (6, L, 3, C)
 Point buy weapon design.
 point buy = rep cost times 2+3
 can be within 1 of point buy cost for convenience
-factions
+requirements
 	1 per
 harm
 	2 per

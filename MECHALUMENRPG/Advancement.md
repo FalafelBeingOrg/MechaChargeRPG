@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # Advancement
 
-At the end of the [[Mission Generation Tables|Mission]], **PCs** gain 1 point to an attribute of their choice, and increase their health or starting [[Sol]] by 1.
+At the end of the [[Mission Generation Tables|Mission]], **PCs** regain all lost health, gain 1 point to an attribute of their choice, and increase their maximum health by 1.
 
 If the mission was a . . . 
 	 . . . failure, each **PC** gains 2 [[Reputation]].

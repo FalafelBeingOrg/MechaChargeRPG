@@ -13,7 +13,7 @@ Wind Scout
 		- - Range: Close, Mid
 	- **Moves:**
 		- - Dive bomb
-		- - Areal maneuvers
+		- - Arial maneuvers
 		- - Escape to the skies
 
 Evangelist
@@ -40,3 +40,26 @@ Grove Tender
 		- - Photosynthesize
 		- - Plant control
 
+Hatchling
+	- [[Factions|Faction]]: The Crow Cult
+	- [[Health]]: 2
+		- - [[Shield Cores]]: 1
+	- **Harm:** 2
+		- - Weapon: BEAK MK 1
+		- - Range: Close, Mid
+	- **Moves:**
+		- - Caw
+		- - Flight
+		- - Beady eyes
+
+Automaton MK 1
+	- [[Factions|Faction]]: The Tinker's Guild
+	- [[Health]]: 1
+		- - [[Shield Cores]]: 3
+	- **Harm:** 2
+		- - Weapon: PNEUMATIC 
+		- - Range: Mid
+	- **Moves:**
+		- - Shift gears
+		- - Common mind
+		- - Crush

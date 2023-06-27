@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # Factions
-- [ ] **TO DO: ADD MORE FACTIONS AND LORE**
 
 **The Botanists**
 	Have living plant weaponry.
@@ -19,3 +18,12 @@ dg-publish: true
 	Want to protect their culture.
 	Utilize far-reaching diplomats.
 
+**The Crow Cult**
+	Have a far reaching network of spies.
+	Want to undermine the **Republic's** control.
+	Utilize assassinations and kidnappings.
+
+**The Tinker's Guild**
+	Have many mechanized servants and moving castles.
+	Want to gather new trinkets and power sources.
+	Utilize unfair bartering and threats.
